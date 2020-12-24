@@ -2,3 +2,6 @@ Hola Git como estas?
 Estoy bien
 Esto sera algo de prueba
 
+Es interesante aprender git en Platzi
+
+Hoy es jueves 24
