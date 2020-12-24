@@ -4,4 +4,5 @@ Esto sera algo de prueba
 
 Es interesante aprender git en Platzi
 
-Hoy es jueves 24 a las 4am con 9 minutos
+Hoy es jueves 24 a las 4am
+tomorrow will be christmas day
